@@ -1,0 +1,2 @@
+2026-11-18 17:37:10|Thread-WebSocket-student_a-2|student_a|student_b|Hi Priya, is Calculus available?|1
+2026-11-18 17:37:10|Thread-WebSocket-student_b-1|student_b|student_a|Yes Satkar, it is available! Let's meet at 4 PM.|1
